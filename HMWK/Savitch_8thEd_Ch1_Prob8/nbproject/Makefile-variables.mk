@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=gaddis_7thed_ch2_prob4
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/gaddis_7thed_ch2_prob4
+CND_ARTIFACT_NAME_Debug=savitch_8thed_ch1_prob8
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/savitch_8thed_ch1_prob8
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=gaddis7thedch2prob4.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/gaddis7thedch2prob4.tar
+CND_PACKAGE_NAME_Debug=savitch8thedch1prob8.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/savitch8thedch1prob8.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=gaddis_7thed_ch2_prob4
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/gaddis_7thed_ch2_prob4
+CND_ARTIFACT_NAME_Release=savitch_8thed_ch1_prob8
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/savitch_8thed_ch1_prob8
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=gaddis7thedch2prob4.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/gaddis7thedch2prob4.tar
+CND_PACKAGE_NAME_Release=savitch8thedch1prob8.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/savitch8thedch1prob8.tar
 #
 # include compiler specific variables
 #
